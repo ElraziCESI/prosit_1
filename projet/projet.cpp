@@ -2,6 +2,10 @@
 //
 
 #include <iostream>
+void salutations()
+{
+    std::cout << "Bonsoir!\n";
+}
 
 int main()
 {
